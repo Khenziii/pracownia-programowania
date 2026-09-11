@@ -5,7 +5,7 @@
 > [!NOTE]
 > Ta instrukcja zakłada poprawną instalacje wszystkich wymaganych zależności. W środowisku szkolnym nie powinno być z tym problemu.
 
-W tym repozytorium spotkać możesz się z kodem napisanym w dwóch językach: C++, oraz Pythonie. Kod źródłowy C++ jest pisany w plikach o rozszerzeniu `cpp` a Pythona `py`. Na podstawie tej różnicy możesz uruchomić przykładowe rozwiązania zadań z lekcji na dwa różne sposoby, w zależności od tego jakie przykłady zawiera dana lekcja:
+W tym repozytorium spotkać możesz się z kodem napisanym w dwóch językach: C++, oraz Pythonie. Kod źródłowy C++ jest pisany w plikach o rozszerzeniu `cpp`, a Pythona `py`. Na podstawie tej różnicy, w zależności od lekcji, możliwe jest uruchomienie zawartych w niej rozwiązań na dwa różne sposoby:
 
 ### C++
 
